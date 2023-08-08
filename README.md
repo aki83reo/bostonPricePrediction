@@ -29,3 +29,12 @@ conda activate Boston_ML/
 2. git config --global user.email "xxx@gmail.com"
 
 '''
+
+
+### First commit in GIT 
+
+'''
+1. git add .
+2. git commit -m "first push"
+3. git push origin main
+'''
